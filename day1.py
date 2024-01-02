@@ -13,7 +13,7 @@ for word in words: # iterates through each line
 
 print(p1)
 
-# PART2
+# PART 2
 p2 = 0
 new_words = []
 
