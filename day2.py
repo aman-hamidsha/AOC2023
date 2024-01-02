@@ -1,7 +1,7 @@
 file = open('input.txt','r')
 games = file.readlines()
 
-#PART1 AND PART2
+#PART 1 AND PART 2
 
 invalid_games = []
 p2 = 0
