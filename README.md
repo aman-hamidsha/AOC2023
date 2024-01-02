@@ -6,8 +6,8 @@ and a special shoutout to those stuck around until the very end without leaving 
 Happy Holidays folks! <3
 
 
-15 stars worth of problems solved.
+I've managed to solve 15 stars worth of problems.
 Day 1, 2, 4, 6, 8, 9 parts 1 and 2.
 Day 3, 5, 7 part 1.
 
-Aim was to just find the solutions, code is not fully optimized for performance.
+My aim was to just find the solutions, code is not fully optimized for performance.
