@@ -1,7 +1,7 @@
 file = open('input.txt', 'r')
 lines = file.readlines()
 
-#PART1
+#PART 1
 newlines = []
 for line in lines:
     newlines.append(line.replace('\n','')+'.') # replaces the newlines character with a period to solve edge cases
