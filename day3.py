@@ -1,4 +1,4 @@
-file = open('ex3.txt', 'r')
+file = open('input.txt', 'r')
 lines = file.readlines()
 
 #PART1
