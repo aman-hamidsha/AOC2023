@@ -1,6 +1,8 @@
 This was my first ever AdventOfCode. I did a lot better than I thought I would,
 despite spending a load of hours on it. I learnt a lot and I feel like my python skills have
-doubled. But most importantly I had a load of fun, crushing the competition in a private leaderboard!
+doubled. But most importantly I had a load of fun. Special thanks to James for setting the private 
+leaderboard up and a huge thank you to everyone else who's participated, and stuck around until the very 
+end. <3
 
 
 15 stars worth of problems solved.
