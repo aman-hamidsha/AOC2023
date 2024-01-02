@@ -4,7 +4,7 @@ words = file.readlines()
 # PART 1
 p1 = 0
 
-for word in words: # iterates through each lines
+for word in words: # iterates through each line
     num = "" # there will be one output per line
     for char in word: # iterates through each character in the line
         if char.isdigit():  
